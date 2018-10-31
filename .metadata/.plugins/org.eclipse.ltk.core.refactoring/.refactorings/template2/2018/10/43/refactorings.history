@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;template2/sql/ecsite.sql&apos; を &apos;ecsiteyudai.sql&apos; に変更します" description="リソース &apos;ecsite.sql&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="sql/ecsite.sql" name="ecsiteyudai.sql" stamp="1540449789237" updateReferences="true"/>
+</session>

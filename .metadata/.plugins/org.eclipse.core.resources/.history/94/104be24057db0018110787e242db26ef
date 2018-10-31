@@ -1,0 +1,13 @@
+package com.internousdev.ecsite.dto;
+
+public class LoginDTO {
+
+	private String loginUserId;
+
+	public void setLoginId(String loginUserId){
+		this.loginUserId=loginUserId;
+	}
+}
+
+
+
